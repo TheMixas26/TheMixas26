@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt%2FQML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-%% ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) %%
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=archlinux&logoColor=white)
@@ -28,7 +28,7 @@
 | Проект | Что это | Стек |
 |---|---|---|
 | **[reolo_bot («Варя»)](https://github.com/TheMixas26/reolo_bot)** | Бот для Telegram и VK: анонимные сообщения, голосования, модерация, RPG-механики, интеграция с YandexGPT | `Python` `pyTelegramBotAPI` `SQLite` |
-| **[AhdMix](https://github.com/TheMixas26/project-MUSIC)** | Мультиплатформенный музыкальный плеер: GridView, кастомные Loader-компоненты, анимации обложек | `C++` `Qt/QML` |
+| **[AhdMix](https://github.com/aHDpeee/MP3ahdmix)** | Мультиплатформенный музыкальный плеер: GridView, кастомные Loader-компоненты, анимации обложек | `C++` `Qt/QML` |
 | **[imperial-herald](https://github.com/TheMixas26/imperial-herald)** | Статический сайт на Hugo - фронтенд для собственного вики-движка | `Hugo` `HTML/CSS` |
 | **my_dungeon_game** | Терминальный рогалик, WIP | `Python` `curses` |
 | **Reolo Mod** | Мод для Minecraft на NeoForge, WIP | `Java` `NeoForge` `Gradle` |
