@@ -28,7 +28,7 @@
 | Проект | Что это | Стек |
 |---|---|---|
 | **[reolo_bot («Варя»)](https://github.com/TheMixas26/reolo_bot)** | Бот для Telegram и VK: анонимные сообщения, голосования, модерация, RPG-механики, интеграция с YandexGPT | `Python` `pyTelegramBotAPI` `SQLite` |
-| **[AhdMix](https://github.com/aHDpeee/MP3ahdmix)** | Мультиплатформенный музыкальный плеер: GridView, кастомные Loader-компоненты, анимации обложек | `C++` `Qt/QML` |
+| **[aHDMix](https://github.com/aHDpeee/MP3ahdmix)** | Мультиплатформенный музыкальный плеер: GridView, кастомные Loader-компоненты, анимации обложек | `C++` `Qt/QML` |
 | **[imperial-herald](https://github.com/TheMixas26/imperial-herald)** | Статический сайт на Hugo - фронтенд для собственного вики-движка | `Hugo` `HTML/CSS` |
 | **my_dungeon_game** | Терминальный рогалик, WIP | `Python` `curses` |
 | **Reolo Mod** | Мод для Minecraft на NeoForge, WIP | `Java` `NeoForge` `Gradle` |
